@@ -24,7 +24,7 @@ ITC : 411
    python stock_tracker.py
 4.Follow the on-screen instructions.
 
-**##Example Output**
+## Example Output
 📈 Stock Portfolio Tracker
 
 Available Stocks and Prices (per share):
