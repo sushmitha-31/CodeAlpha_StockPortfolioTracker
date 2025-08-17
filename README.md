@@ -24,15 +24,12 @@ ITC : 411
    python stock_tracker.py
 4.Follow the on-screen instructions.
 
-## Example Output
-📈 Stock Portfolio Tracker
+## 📌 Example Output
+```text
+Stock Portfolio Tracker
 
 Available Stocks and Prices (per share):
-RELIANCE: ₹1373
-INFOSYS: ₹1447
-TCS: ₹3022
-WIPRO: ₹246
-ITC: ₹411
+RELIANCE: ₹1373  INFOSYS: ₹1447  TCS: ₹3022  WIPRO: ₹246  ITC: ₹411  
 
 Enter stock name (or type 'done' to finish): WIPRO
 Enter quantity of WIPRO: 5
@@ -46,7 +43,8 @@ Your Portfolio:
 WIPRO: 5 shares, ₹1230
 TCS: 2 shares, ₹6044
 
-💰 Total Investment: ₹7274
+Total Investment: ₹7274
+
 Do you want to save the portfolio to a file? (y/n): y
 Enter file type (txt/csv): txt
 Portfolio saved to portfolio.txt
