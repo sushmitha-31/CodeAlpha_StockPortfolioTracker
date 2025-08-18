@@ -51,5 +51,10 @@ Portfolio saved to portfolio.txt
 ```
 
 
-**Author -** Sushmitha M S
-**Internship -** CodeAlpha - Python Programming
+---
+
+## Author  
+*Sushmitha M S*
+
+## Internship  
+*CodeAlpha – Python Programming*
